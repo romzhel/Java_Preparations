@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\java\Java_Preparing\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/out/
+/target/
+/.idea/
+*.gitignore
+/certificateDB — копия.db
+*.xlsx
+/DBpath.cnf
+/certificateDB.db
+*.7z
+*.db
+*.iml
+/_db_backups/
+/_certs/
+/_manuals/
+*.db-journal
+
+*.log
+/_logs/log_25.06.2020_02.16.04_Ray.zip
+/_logs/
