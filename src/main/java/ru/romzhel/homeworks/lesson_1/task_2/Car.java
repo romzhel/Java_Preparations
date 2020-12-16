@@ -39,5 +39,5 @@ public abstract class Car implements Moveable {
     }
     public void setName(String name) {
         this.name = name;
-    }*/
+    }
 }
