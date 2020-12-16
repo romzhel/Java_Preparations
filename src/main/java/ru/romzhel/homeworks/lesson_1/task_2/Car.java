@@ -18,7 +18,7 @@ public abstract class Car implements Moveable {
         System.out.println("Car is stopped");
     }
 
-    /*public Engine getEngine() {
+    public Engine getEngine() {
         return engine;
     }
 
